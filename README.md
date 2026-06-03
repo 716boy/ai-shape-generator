@@ -1,5 +1,7 @@
 # Shape Editor
 
+https://ai-shape-generator.web.app/
+
 A modern, interactive shape editor application built with React and Vite. Create, customize, and manipulate various shapes with an intuitive interface.
 
 ## Features
